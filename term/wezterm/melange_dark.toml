@@ -7,4 +7,4 @@ cursor_fg     = "#2A2520"
 selection_bg  = "#4D453E"
 selection_fg  = "#ECE1D7"
 ansi = ["#352F2A", "#B65C60", "#78997A", "#EBC06D", "#9AACCE", "#B380B0", "#86A3A3", "#A38D78"]
-brights = ["#4D453E", "#F17C64", "#99D59D", "#EBC06D", "#9AACCE", "#CE9BCB", "#88B3B2", "#C1A78E"]
+brights = ["#4D453E", "#F17C64", "#99D59D", "#EBC06D", "#9AACCE", "#CE9BCB", "#93C1C0", "#C1A78E"]

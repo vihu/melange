@@ -63,7 +63,8 @@ highlight StatusLineNC guifg=#C1A78E guibg=#352F2A guisp=NONE gui=NONE
 highlight String guifg=#9AACCE guibg=NONE guisp=NONE gui=italic
 highlight Substitute guifg=#2A2520 guibg=#8E733F guisp=NONE gui=NONE
 highlight TSConstBuiltin guifg=#B380B0 guibg=NONE guisp=NONE gui=italic
-highlight TSMath guifg=#88B3B2 guibg=NONE guisp=NONE gui=NONE
+highlight TSLabel guifg=#93C1C0 guibg=NONE guisp=NONE gui=NONE
+highlight TSMath guifg=#93C1C0 guibg=NONE guisp=NONE gui=NONE
 highlight TSNamespace guifg=#78997A guibg=NONE guisp=NONE gui=NONE
 highlight TSPunctDelimiter guifg=#B65C60 guibg=NONE guisp=NONE gui=NONE
 highlight TSStrike guifg=NONE guibg=NONE guisp=NONE gui=strikethrough
@@ -195,6 +196,7 @@ highlight StatusLineNC guifg=#867462 guibg=#E9E1DB guisp=NONE gui=NONE
 highlight String guifg=#485F84 guibg=NONE guisp=NONE gui=italic
 highlight Substitute guifg=#F4F0ED guibg=#E2C28C guisp=NONE gui=NONE
 highlight TSConstBuiltin guifg=#BE79BB guibg=NONE guisp=NONE gui=italic
+highlight TSLabel guifg=#436460 guibg=NONE guisp=NONE gui=NONE
 highlight TSMath guifg=#436460 guibg=NONE guisp=NONE gui=NONE
 highlight TSNamespace guifg=#83B887 guibg=NONE guisp=NONE gui=NONE
 highlight TSPunctDelimiter guifg=#D7898C guibg=NONE guisp=NONE gui=NONE
