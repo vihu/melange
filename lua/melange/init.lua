@@ -33,7 +33,7 @@ palette.dark = {
         red     = hsluv( 20, 80, 65);
         yellow  = hsluv( 60, 70, 80);
         green   = hsluv(130, 40, 80);
-        cyan    = hsluv(190, 40, 70);
+        cyan    = hsluv(190, 40, 75);
         blue    = hsluv(250, 40, 70);
         magenta = hsluv(310, 40, 70);
     };
@@ -262,7 +262,7 @@ TSFuncMacro          { Function };
 TSKeywordFunction    { PreProc };
 -- TSKeywordOperator    { };
 -- TSKeywordReturn      { };
--- TSLabel              { };
+TSLabel              { fg=b.cyan };
 -- TSMethod             { };
 TSNamespace          { fg=c.green };
 -- TSNone               { };
