@@ -7,7 +7,7 @@ highlight Bold guifg=NONE guibg=NONE guisp=NONE gui=bold
 highlight Boolean guifg=#CE9BCB guibg=NONE guisp=NONE gui=NONE
 highlight Character guifg=#9AACCE guibg=NONE guisp=NONE gui=NONE
 highlight ColorColumn guifg=NONE guibg=#352F2A guisp=NONE gui=NONE
-highlight Comment guifg=#A38D78 guibg=NONE guisp=NONE gui=italic
+highlight Comment guifg=#A38D78 guibg=NONE guisp=NONE gui=NONE
 highlight Conceal guifg=#C1A78E guibg=NONE guisp=NONE gui=NONE
 highlight Constant guifg=#B380B0 guibg=NONE guisp=NONE gui=NONE
 highlight CursorLineNr guifg=#E49B5D guibg=NONE guisp=NONE gui=NONE
@@ -60,21 +60,21 @@ highlight SpellLocal guifg=#E49B5D guibg=NONE guisp=NONE gui=undercurl
 highlight SpellRare guifg=#EBC06D guibg=NONE guisp=NONE gui=undercurl
 highlight Statement guifg=#E49B5D guibg=NONE guisp=NONE gui=NONE
 highlight StatusLineNC guifg=#C1A78E guibg=#352F2A guisp=NONE gui=NONE
-highlight String guifg=#9AACCE guibg=NONE guisp=NONE gui=italic
+highlight String guifg=#9AACCE guibg=NONE guisp=NONE gui=NONE
 highlight Substitute guifg=#2A2520 guibg=#8E733F guisp=NONE gui=NONE
-highlight TSConstBuiltin guifg=#B380B0 guibg=NONE guisp=NONE gui=italic
+highlight TSConstBuiltin guifg=#B380B0 guibg=NONE guisp=NONE gui=NONE
 highlight TSMath guifg=#88B3B2 guibg=NONE guisp=NONE gui=NONE
 highlight TSNamespace guifg=#78997A guibg=NONE guisp=NONE gui=NONE
 highlight TSPunctDelimiter guifg=#B65C60 guibg=NONE guisp=NONE gui=NONE
 highlight TSStrike guifg=NONE guibg=NONE guisp=NONE gui=strikethrough
 highlight TSStringEscape guifg=#697893 guibg=NONE guisp=NONE gui=NONE
 highlight TSStrong guifg=NONE guibg=NONE guisp=NONE gui=bold
-highlight TSSymbol guifg=#ECE1D7 guibg=NONE guisp=NONE gui=italic
+highlight TSSymbol guifg=#ECE1D7 guibg=NONE guisp=NONE gui=NONE
 highlight TSURI guifg=#9AACCE guibg=NONE guisp=NONE gui=underline
-highlight TSVariableBuiltin guifg=#ECE1D7 guibg=NONE guisp=NONE gui=italic
+highlight TSVariableBuiltin guifg=#ECE1D7 guibg=NONE guisp=NONE gui=NONE
 highlight TabLineSel guifg=NONE guibg=#352F2A guisp=NONE gui=bold
 highlight Title guifg=#E49B5D guibg=NONE guisp=NONE gui=NONE
-highlight Todo guifg=#C1A78E guibg=NONE guisp=NONE gui=italic
+highlight Todo guifg=#C1A78E guibg=NONE guisp=NONE gui=bold
 highlight Type guifg=#86A3A3 guibg=NONE guisp=NONE gui=NONE
 highlight Underlined guifg=NONE guibg=NONE guisp=NONE gui=underline
 highlight VertSplit guifg=#4D453E guibg=NONE guisp=NONE gui=NONE
@@ -109,7 +109,7 @@ highlight! link SignifySignDelete GitSignsDelete
 highlight! link SpecialKey Whitespace
 highlight! link StatusLine NormalFloat
 highlight! link TSConstMacro Constant
-highlight! link TSEmphasis Italic
+highlight! link TSEmphasis Bold
 highlight! link TSEnvironment Statement
 highlight! link TSEnvironmentName PreProc
 highlight! link TSFuncBuiltin Function
@@ -139,7 +139,7 @@ highlight Bold guifg=NONE guibg=NONE guisp=NONE gui=bold
 highlight Boolean guifg=#854882 guibg=NONE guisp=NONE gui=NONE
 highlight Character guifg=#485F84 guibg=NONE guisp=NONE gui=NONE
 highlight ColorColumn guifg=NONE guibg=#E9E1DB guisp=NONE gui=NONE
-highlight Comment guifg=#A38D78 guibg=NONE guisp=NONE gui=italic
+highlight Comment guifg=#A38D78 guibg=NONE guisp=NONE gui=NONE
 highlight Conceal guifg=#867462 guibg=NONE guisp=NONE gui=NONE
 highlight Constant guifg=#BE79BB guibg=NONE guisp=NONE gui=NONE
 highlight CursorLineNr guifg=#CC7F2B guibg=NONE guisp=NONE gui=NONE
@@ -192,21 +192,21 @@ highlight SpellLocal guifg=#CC7F2B guibg=NONE guisp=NONE gui=undercurl
 highlight SpellRare guifg=#C29830 guibg=NONE guisp=NONE gui=undercurl
 highlight Statement guifg=#CC7F2B guibg=NONE guisp=NONE gui=NONE
 highlight StatusLineNC guifg=#867462 guibg=#E9E1DB guisp=NONE gui=NONE
-highlight String guifg=#485F84 guibg=NONE guisp=NONE gui=italic
+highlight String guifg=#485F84 guibg=NONE guisp=NONE gui=NONE
 highlight Substitute guifg=#F4F0ED guibg=#E2C28C guisp=NONE gui=NONE
-highlight TSConstBuiltin guifg=#BE79BB guibg=NONE guisp=NONE gui=italic
+highlight TSConstBuiltin guifg=#BE79BB guibg=NONE guisp=NONE gui=NONE
 highlight TSMath guifg=#436460 guibg=NONE guisp=NONE gui=NONE
 highlight TSNamespace guifg=#83B887 guibg=NONE guisp=NONE gui=NONE
 highlight TSPunctDelimiter guifg=#D7898C guibg=NONE guisp=NONE gui=NONE
 highlight TSStrike guifg=NONE guibg=NONE guisp=NONE gui=strikethrough
 highlight TSStringEscape guifg=#ABB9D6 guibg=NONE guisp=NONE gui=NONE
 highlight TSStrong guifg=NONE guibg=NONE guisp=NONE gui=bold
-highlight TSSymbol guifg=#6B5C4D guibg=NONE guisp=NONE gui=italic
+highlight TSSymbol guifg=#6B5C4D guibg=NONE guisp=NONE gui=NONE
 highlight TSURI guifg=#485F84 guibg=NONE guisp=NONE gui=underline
-highlight TSVariableBuiltin guifg=#6B5C4D guibg=NONE guisp=NONE gui=italic
+highlight TSVariableBuiltin guifg=#6B5C4D guibg=NONE guisp=NONE gui=NONE
 highlight TabLineSel guifg=NONE guibg=#E9E1DB guisp=NONE gui=bold
 highlight Title guifg=#CC7F2B guibg=NONE guisp=NONE gui=NONE
-highlight Todo guifg=#867462 guibg=NONE guisp=NONE gui=italic
+highlight Todo guifg=#867462 guibg=NONE guisp=NONE gui=bold
 highlight Type guifg=#729893 guibg=NONE guisp=NONE gui=NONE
 highlight Underlined guifg=NONE guibg=NONE guisp=NONE gui=underline
 highlight VertSplit guifg=#DED2C8 guibg=NONE guisp=NONE gui=NONE
@@ -241,7 +241,7 @@ highlight! link SignifySignDelete GitSignsDelete
 highlight! link SpecialKey Whitespace
 highlight! link StatusLine NormalFloat
 highlight! link TSConstMacro Constant
-highlight! link TSEmphasis Italic
+highlight! link TSEmphasis Bold
 highlight! link TSEnvironment Statement
 highlight! link TSEnvironmentName PreProc
 highlight! link TSFuncBuiltin Function
